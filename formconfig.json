@@ -1,0 +1,7 @@
+{
+  "optionalFields": {
+    "country": true,
+    "profession": true,
+    "specialty": true
+  }
+}
